@@ -1,3 +1,6 @@
+### POINTS: 0
+### KEY: Always check that your code pushed properly! No submission found :-(
+
 # Django templates
 
 Create a new movie application with a database model with name, yearReleased, ageAllowed, and genre attributes.
