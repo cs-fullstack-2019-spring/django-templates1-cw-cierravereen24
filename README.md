@@ -1,5 +1,5 @@
-### POINTS: 0
-### KEY: Always check that your code pushed properly! No submission found :-(
+### POINTS: 1.5
+### KEY: Well done, but missing some comments
 
 # Django templates
 
